@@ -11,7 +11,9 @@ int main()
         if (i % 2 == 0)
         {
             printf("O número %d é par!!\n", i);
-        } else {
+        }
+        else
+        {
             printf("O número %d é impar!!\n", i);
         }
 
