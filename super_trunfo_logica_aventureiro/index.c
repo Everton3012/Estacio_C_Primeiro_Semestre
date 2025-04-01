@@ -99,7 +99,7 @@ int main()
         printf("\nComparação de cartas (Atributo: População):\n\n");
 
         printf("Carta 1 - %s: %d\n", nomeDaCidade1, populacao1);
-        printf("Carta 2 - %s: %d\n", nomeDaCidade1, populacao2);
+        printf("Carta 2 - %s: %d\n", nomeDaCidade2, populacao2);
 
         // estrutura condicional
         if (populacao1 > populacao2)
@@ -119,7 +119,7 @@ int main()
         printf("\nComparação de cartas (Atributo: Área):\n\n");
 
         printf("Carta 1 - %s: %d\n", nomeDaCidade1, area1);
-        printf("Carta 2 - %s: %d\n", nomeDaCidade1, area1);
+        printf("Carta 2 - %s: %d\n", nomeDaCidade2, area2);
 
         // estrutura condicional
         if (area1 > area1)
@@ -139,7 +139,7 @@ int main()
         printf("\nComparação de cartas (Atributo: PIB):\n\n");
 
         printf("Carta 1 - %s: %d\n", nomeDaCidade1, pib1);
-        printf("Carta 2 - %s: %d\n", nomeDaCidade1, pib2);
+        printf("Carta 2 - %s: %d\n", nomeDaCidade2, pib2);
 
         // estrutura condicional
         if (pib1 > pib2)
@@ -159,7 +159,7 @@ int main()
         printf("\nComparação de cartas (Atributo: Número de pontos turísticos):\n\n");
 
         printf("Carta 1 - %s: %d\n", nomeDaCidade1, pontosTuristicos1);
-        printf("Carta 2 - %s: %d\n", nomeDaCidade1, pontosTuristicos2);
+        printf("Carta 2 - %s: %d\n", nomeDaCidade2, pontosTuristicos2);
 
         // estrutura condicional
         if (pontosTuristicos1 > pontosTuristicos2)
@@ -179,7 +179,7 @@ int main()
         printf("\nComparação de cartas (Atributo: Densidade demográfica):\n\n");
 
         printf("Carta 1 - %s: %d\n", nomeDaCidade1, densidadePopulacional1);
-        printf("Carta 2 - %s: %d\n", nomeDaCidade1, densidadePopulacional2);
+        printf("Carta 2 - %s: %d\n", nomeDaCidade2, densidadePopulacional2);
 
         // estrutura condicional
         if (densidadePopulacional1 < densidadePopulacional2)
